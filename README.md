@@ -1,2 +1,3 @@
-# codewars
-CodeWars Kata solutions
+# CodeWars Kata solutions
+
+Quick, dirty, fun solutions.
