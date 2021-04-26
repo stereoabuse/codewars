@@ -1,6 +1,6 @@
 ##  Abbreviate a Two Word Name
 ##  8 kyu
-##  https://www.codewars.com//kata/57eadb7ecd143f4c9c0000a3
+##  https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3
 
 
 def abbrevName(name):
