@@ -1,6 +1,6 @@
 ##  Pete, the baker
 ##  5 kyu
-##  https://www.codewars.com//kata/525c65e51bf619685c000059
+##  https://www.codewars.com/kata/525c65e51bf619685c000059
 
 
 def cakes(recipe, available):

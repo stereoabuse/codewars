@@ -1,6 +1,6 @@
 ##  Even Fibonacci Sum
 ##  6 kyu
-##  https://www.codewars.com//kata/55688b4e725f41d1e9000065
+##  https://www.codewars.com/kata/55688b4e725f41d1e9000065
 
 
 def even_fib(m):

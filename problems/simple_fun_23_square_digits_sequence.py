@@ -1,6 +1,6 @@
 ##  Simple Fun #23: Square Digits Sequence
 ##  6 kyu
-##  https://www.codewars.com//kata/5886d65e427c27afeb0000c1
+##  https://www.codewars.com/kata/5886d65e427c27afeb0000c1
 
 
 def square_digits_sequence(n):

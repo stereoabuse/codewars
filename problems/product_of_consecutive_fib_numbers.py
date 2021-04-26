@@ -1,6 +1,6 @@
 ##  Product of consecutive Fib numbers
 ##  5 kyu
-##  https://www.codewars.com//kata/5541f58a944b85ce6d00006a
+##  https://www.codewars.com/kata/5541f58a944b85ce6d00006a
 
 
 def fibs(n):

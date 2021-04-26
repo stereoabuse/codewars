@@ -1,6 +1,6 @@
 ##  Sort the odd
 ##  6 kyu
-##  https://www.codewars.com//kata/578aa45ee9fd15ff4600090d
+##  https://www.codewars.com/kata/578aa45ee9fd15ff4600090d
 
 
 def sort_array(source_array):

@@ -1,6 +1,6 @@
 ##  Breaking chocolate problem
 ##  7 kyu
-##  https://www.codewars.com//kata/534ea96ebb17181947000ada
+##  https://www.codewars.com/kata/534ea96ebb17181947000ada
 
 
 def breakChocolate(n, m):

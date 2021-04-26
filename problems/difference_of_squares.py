@@ -1,6 +1,6 @@
 ##  Difference Of Squares
 ##  7 kyu
-##  https://www.codewars.com//kata/558f9f51e85b46e9fa000025
+##  https://www.codewars.com/kata/558f9f51e85b46e9fa000025
 
 
 def difference_of_squares(n):

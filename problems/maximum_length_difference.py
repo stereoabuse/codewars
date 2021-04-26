@@ -1,6 +1,6 @@
 ##  Maximum Length Difference
 ##  7 kyu
-##  https://www.codewars.com//kata/5663f5305102699bad000056
+##  https://www.codewars.com/kata/5663f5305102699bad000056
 
 
 def mxdiflg(a1, a2):

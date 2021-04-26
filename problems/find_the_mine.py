@@ -1,6 +1,6 @@
 ##  Find the Mine!
 ##  6 kyu
-##  https://www.codewars.com//kata/528d9adf0e03778b9e00067e
+##  https://www.codewars.com/kata/528d9adf0e03778b9e00067e
 
 
 def mineLocation(field):

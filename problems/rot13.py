@@ -1,6 +1,6 @@
 ##  Rot13
 ##  5 kyu
-##  https://www.codewars.com//kata/530e15517bc88ac656000716
+##  https://www.codewars.com/kata/530e15517bc88ac656000716
 
 
 def rot13(message):

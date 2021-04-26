@@ -1,6 +1,6 @@
 ##  IQ Test
 ##  6 kyu
-##  https://www.codewars.com//kata/552c028c030765286c00007d
+##  https://www.codewars.com/kata/552c028c030765286c00007d
 
 
 def iq_test(numbers):

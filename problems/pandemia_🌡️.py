@@ -1,6 +1,6 @@
 ##  Pandemia 🌡️
 ##  7 kyu
-##  https://www.codewars.com//kata/5e2596a9ad937f002e510435
+##  https://www.codewars.com/kata/5e2596a9ad937f002e510435
 
 
 def infected(s):

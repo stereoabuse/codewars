@@ -1,6 +1,6 @@
 ##  Find The Parity Outlier
 ##  6 kyu
-##  https://www.codewars.com//kata/5526fc09a1bbd946250002dc
+##  https://www.codewars.com/kata/5526fc09a1bbd946250002dc
 
 
 def find_outlier(integers):

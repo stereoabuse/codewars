@@ -1,6 +1,6 @@
 ##  Summation Of Primes
 ##  6 kyu
-##  https://www.codewars.com//kata/59ab0ca4243eae9fec000088
+##  https://www.codewars.com/kata/59ab0ca4243eae9fec000088
 
 
 def summationOfPrimes(primes):

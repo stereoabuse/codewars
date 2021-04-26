@@ -1,6 +1,6 @@
 ##  Disarium Number (Special Numbers Series #3)
 ##  7 kyu
-##  https://www.codewars.com//kata/5a53a17bfd56cb9c14000003
+##  https://www.codewars.com/kata/5a53a17bfd56cb9c14000003
 
 
 def disarium_number(number):

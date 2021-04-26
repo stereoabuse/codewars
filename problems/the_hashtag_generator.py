@@ -1,6 +1,6 @@
 ##  The Hashtag Generator
 ##  5 kyu
-##  https://www.codewars.com//kata/52449b062fb80683ec000024
+##  https://www.codewars.com/kata/52449b062fb80683ec000024
 
 
 def generate_hashtag(s):
