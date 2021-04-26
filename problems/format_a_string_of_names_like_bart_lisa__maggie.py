@@ -1,6 +1,6 @@
 ##  Format a string of names like 'Bart, Lisa & Maggie'.
 ##  6 kyu
-##  https://www.codewars.com//kata/53368a47e38700bd8300030d
+##  https://www.codewars.com/kata/53368a47e38700bd8300030d
 
 
 def namelist(names):

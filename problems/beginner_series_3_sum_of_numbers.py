@@ -1,6 +1,6 @@
 ##  Beginner Series #3 Sum of Numbers
 ##  7 kyu
-##  https://www.codewars.com//kata/55f2b110f61eb01779000053
+##  https://www.codewars.com/kata/55f2b110f61eb01779000053
 
 
 def get_sum(a,b):

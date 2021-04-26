@@ -1,6 +1,6 @@
 ##  Take a Ten Minute Walk
 ##  6 kyu
-##  https://www.codewars.com//kata/54da539698b8a2ad76000228
+##  https://www.codewars.com/kata/54da539698b8a2ad76000228
 
 
 def is_valid_walk(walk):

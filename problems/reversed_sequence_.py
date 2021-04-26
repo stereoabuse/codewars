@@ -1,6 +1,6 @@
 ##  Reversed sequence 
 ##  8 kyu
-##  https://www.codewars.com//kata/5a00e05cc374cb34d100000d
+##  https://www.codewars.com/kata/5a00e05cc374cb34d100000d
 
 
 def reverse_seq(n):

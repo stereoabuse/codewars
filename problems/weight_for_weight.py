@@ -1,6 +1,6 @@
 ##  Weight for weight
 ##  5 kyu
-##  https://www.codewars.com//kata/55c6126177c9441a570000cc
+##  https://www.codewars.com/kata/55c6126177c9441a570000cc
 
 
 def order_weight(string):

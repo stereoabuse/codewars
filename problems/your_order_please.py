@@ -1,6 +1,6 @@
 ##  Your order, please
 ##  6 kyu
-##  https://www.codewars.com//kata/55c45be3b2079eccff00010f
+##  https://www.codewars.com/kata/55c45be3b2079eccff00010f
 
 
 def order(sentence):

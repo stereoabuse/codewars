@@ -1,6 +1,6 @@
 ##  Find the next perfect square!
 ##  7 kyu
-##  https://www.codewars.com//kata/56269eb78ad2e4ced1000013
+##  https://www.codewars.com/kata/56269eb78ad2e4ced1000013
 
 
 def find_next_square(sq):

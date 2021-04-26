@@ -1,6 +1,6 @@
 ##  Convert string to camel case
 ##  6 kyu
-##  https://www.codewars.com//kata/517abf86da9663f1d2000003
+##  https://www.codewars.com/kata/517abf86da9663f1d2000003
 
 
 import re

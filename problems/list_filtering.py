@@ -1,6 +1,6 @@
 ##  List Filtering
 ##  7 kyu
-##  https://www.codewars.com//kata/53dbd5315a3c69eed20002dd
+##  https://www.codewars.com/kata/53dbd5315a3c69eed20002dd
 
 
 def filter_list(l):

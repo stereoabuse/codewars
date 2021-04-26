@@ -1,6 +1,6 @@
 ##  Build a pile of Cubes
 ##  6 kyu
-##  https://www.codewars.com//kata/5592e3bd57b64d00f3000047
+##  https://www.codewars.com/kata/5592e3bd57b64d00f3000047
 
 
 def find_nb(m):

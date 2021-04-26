@@ -1,6 +1,6 @@
 ##  Playing with digits
 ##  6 kyu
-##  https://www.codewars.com//kata/5552101f47fc5178b1000050
+##  https://www.codewars.com/kata/5552101f47fc5178b1000050
 
 
 def dig_pow(n,p):

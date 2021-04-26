@@ -1,6 +1,6 @@
 ##  Tribonacci Sequence
 ##  6 kyu
-##  https://www.codewars.com//kata/556deca17c58da83c00002db
+##  https://www.codewars.com/kata/556deca17c58da83c00002db
 
 
 def tribonacci(signature, n):
