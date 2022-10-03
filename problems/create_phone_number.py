@@ -4,8 +4,5 @@
 
 
 def create_phone_number(n):
-    n = [str(i) for i in n]
-    part1 = ''.join(n[:3])
-    part2 = ''.join(n[3:6])
-    part3 = ''.join(n[6:])
-    return f'({part1}) {part2}-{part3}'
+    n = [str(x) for x in n]
+    return f"({''.join(n[:3])}) {''.join(n[3:6])}-{''.join(n[6:])}"

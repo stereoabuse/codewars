@@ -4,4 +4,4 @@
 
 
 def remove_char(s):
-    return s[1:-1]
+    return '' if len(s) == s else s[1:-1]

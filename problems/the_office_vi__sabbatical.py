@@ -1,6 +1,6 @@
 ##  The Office VI - Sabbatical
 ##  7 kyu
-##  https://www.codewars.com//kata/57fe50d000d05166720000b1
+##  https://www.codewars.com/kata/57fe50d000d05166720000b1
 
 
 def sabb(s, v, h):

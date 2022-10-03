@@ -1,6 +1,6 @@
 ##  Play with two Strings
 ##  5 kyu
-##  https://www.codewars.com//kata/56c30ad8585d9ab99b000c54
+##  https://www.codewars.com/kata/56c30ad8585d9ab99b000c54
 
 
 def work_on_strings(a,b):

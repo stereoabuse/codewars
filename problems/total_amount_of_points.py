@@ -1,6 +1,6 @@
 ##  Total amount of points
 ##  8 kyu
-##  https://www.codewars.com//kata/5bb904724c47249b10000131
+##  https://www.codewars.com/kata/5bb904724c47249b10000131
 
 
 def points(games):

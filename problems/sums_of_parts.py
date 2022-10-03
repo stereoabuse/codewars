@@ -4,10 +4,8 @@
 
 
 def parts_sums(ls):
-    ans = []
-    current_sum = sum(ls)
-    ans.append(current_sum)
-    for item in ls:
-        ans.append(current_sum - item)
-        current_sum -= item
-    return ans
+    answer = [0]
+    for item in ls[::-1]:
+        answer.append(answer[-1] + item)
+    return answer[::-1]
+    

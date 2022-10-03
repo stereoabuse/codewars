@@ -1,12 +1,15 @@
 ##  Write Number in Expanded Form
 ##  6 kyu
-##  https://www.codewars.com//kata/5842df8ccbd22792a4000245
+##  https://www.codewars.com/kata/5842df8ccbd22792a4000245
 
 
 def expanded_form(num):
-    answers = [
-        (str(num)[i] + "0" * (len(str(num)[i:]) - 1))
-        for i in range(len(str(num)))
-        if str(num)[i] != "0"
-    ]
-    return " + ".join(answers)
+    ans = []
+    l = len(str(num)) -1
+    for i in str(num):
+        if str(i) == '0':
+            l -= 1
+            continue
+        ans.append(str(i) + '0'*l)
+        l -= 1
+    return ' + '.join(ans)

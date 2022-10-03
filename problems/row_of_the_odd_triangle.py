@@ -1,6 +1,6 @@
 ##  Row of the odd triangle
 ##  6 kyu
-##  https://www.codewars.com//kata/5d5a7525207a674b71aa25b5
+##  https://www.codewars.com/kata/5d5a7525207a674b71aa25b5
 
 
 def odd_row(n):

@@ -4,5 +4,6 @@
 
 
 def high_and_low(numbers):
-    num_list = [int(i) for i in numbers.split(" ")]
-    return f'{sorted(num_list)[-1]} {sorted(num_list)[0]}'
+    big = max(int(i) for i in numbers.split(' '))
+    small = min(int(i) for i in numbers.split(' '))
+    return f'{big} {small}'

@@ -3,11 +3,6 @@
 ##  https://www.codewars.com/kata/55c45be3b2079eccff00010f
 
 
-def order(sentence):
-    sd = dict()
-    for word in sentence.split(" "):
-        for character in word:
-            if character.isdigit():
-                sd[word] = int(character)
-    return " ".join(sorted(sd, key=sd.get))
-            
+def order(s):
+    sen = [[[x for x in i if x.isdigit()],i] for i in s.split()]
+    return ' '.join([i[1] for i in sorted(sen)])

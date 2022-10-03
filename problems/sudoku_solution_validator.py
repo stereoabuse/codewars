@@ -1,6 +1,6 @@
 ##  Sudoku Solution Validator
 ##  4 kyu
-##  https://www.codewars.com//kata/529bf0e9bdf7657179000008
+##  https://www.codewars.com/kata/529bf0e9bdf7657179000008
 
 
 def valid_solution(puzz):
