@@ -12,3 +12,4 @@ def update_light(current):
         return 'green'
     else:
         raise "we have a problem"
+    # Your code here.
