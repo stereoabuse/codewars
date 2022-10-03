@@ -1,6 +1,6 @@
 ##  Break camelCase
 ##  6 kyu
-##  https://www.codewars.com//kata/5208f99aee097e6552000148
+##  https://www.codewars.com/kata/5208f99aee097e6552000148
 
 
 import re

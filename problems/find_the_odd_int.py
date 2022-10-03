@@ -3,7 +3,7 @@
 ##  https://www.codewars.com/kata/54da5a58ea159efa38000836
 
 
+from itertools import groupby
+
 def find_it(seq):
-    for item in set(seq):
-        if seq.count(item) % 2 != 0:
-            return item
+    return [i for i in [list(g) for k,g in groupby(sorted(seq))] if len(i)%2 != 0][0][0]

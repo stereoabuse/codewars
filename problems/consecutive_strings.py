@@ -1,6 +1,6 @@
 ##  Consecutive strings
 ##  6 kyu
-##  https://www.codewars.com//kata/56a5d994ac971f1ac500003e
+##  https://www.codewars.com/kata/56a5d994ac971f1ac500003e
 
 
 def longest_consec(starr, k):

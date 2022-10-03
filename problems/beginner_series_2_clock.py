@@ -8,3 +8,4 @@ def past(h, m, s):
     minutes = m * 60 * 1000
     seconds = s * 1000
     return hours + minutes + seconds
+    # Good Luck!

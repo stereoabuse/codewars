@@ -1,6 +1,6 @@
 ##  Perimeter of squares in a rectangle
 ##  5 kyu
-##  https://www.codewars.com//kata/559a28007caad2ac4e000083
+##  https://www.codewars.com/kata/559a28007caad2ac4e000083
 
 
 def fib():

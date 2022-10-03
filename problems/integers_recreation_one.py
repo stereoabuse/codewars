@@ -1,6 +1,6 @@
 ##  Integers: Recreation One
 ##  5 kyu
-##  https://www.codewars.com//kata/55aa075506463dac6600010d
+##  https://www.codewars.com/kata/55aa075506463dac6600010d
 
 
 import math

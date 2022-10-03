@@ -4,6 +4,7 @@
 
 
 def fake_bin(x):
+#     return ''.join(['0'  if int(char) < 5 for char in x else '1'])
     num = ''
     for char in x:
         if int(char) < 5:

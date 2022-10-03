@@ -1,6 +1,6 @@
 ##  Mexican Wave
 ##  6 kyu
-##  https://www.codewars.com//kata/58f5c63f1e26ecda7e000029
+##  https://www.codewars.com/kata/58f5c63f1e26ecda7e000029
 
 
 def wave(people):

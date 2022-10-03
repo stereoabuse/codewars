@@ -4,13 +4,12 @@
 
 
 def duplicate_count(text):
-    text_dict, total = {}, 0
-    for char in text.lower():
-        if char not in text_dict:
-            text_dict[char] = 1
-        elif char in text_dict:
-            text_dict[char] += 1
-    for key, value in text_dict.items():
-        if value >=2:
-            total +=1
-    return total
+    text = text.lower()
+    d = dict()
+    for char in text:
+        if char not in d:
+            d[char] = 1
+        else:
+            d[char] += 1
+    return len([i for i in d if d[i] > 1])
+     

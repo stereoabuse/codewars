@@ -1,4 +1,4 @@
-##  Make the Deadfish swim
+##  Make the Deadfish Swim
 ##  6 kyu
 ##  https://www.codewars.com/kata/51e0007c1f9378fa810002a9
 

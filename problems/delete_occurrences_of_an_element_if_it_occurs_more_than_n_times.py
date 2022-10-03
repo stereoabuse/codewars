@@ -1,6 +1,6 @@
 ##  Delete occurrences of an element if it occurs more than n times
 ##  6 kyu
-##  https://www.codewars.com//kata/554ca54ffa7d91b236000023
+##  https://www.codewars.com/kata/554ca54ffa7d91b236000023
 
 
 def delete_nth(order, max_e):

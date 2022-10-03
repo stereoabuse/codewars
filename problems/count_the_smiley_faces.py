@@ -1,6 +1,6 @@
 ##  Count the smiley faces!
 ##  6 kyu
-##  https://www.codewars.com//kata/583203e6eb35d7980400002a
+##  https://www.codewars.com/kata/583203e6eb35d7980400002a
 
 
 import re

@@ -1,6 +1,6 @@
 ##  Decode the Morse code 
 ##  6 kyu
-##  https://www.codewars.com//kata/54b724efac3d5402db00065e
+##  https://www.codewars.com/kata/54b724efac3d5402db00065e
 
 
 def decodeMorse(morse_code):

@@ -1,6 +1,6 @@
 ##  Arrh, grabscrab!
 ##  6 kyu
-##  https://www.codewars.com//kata/52b305bec65ea40fe90007a7
+##  https://www.codewars.com/kata/52b305bec65ea40fe90007a7
 
 
 from collections import Counter

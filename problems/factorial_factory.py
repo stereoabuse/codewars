@@ -1,6 +1,6 @@
 ##  Factorial Factory
 ##  7 kyu
-##  https://www.codewars.com//kata/528e95af53dcdb40b5000171
+##  https://www.codewars.com/kata/528e95af53dcdb40b5000171
 
 
 # This function should return n!

@@ -1,6 +1,6 @@
 ##  Mean Square Error
 ##  5 kyu
-##  https://www.codewars.com//kata/51edd51599a189fe7f000015
+##  https://www.codewars.com/kata/51edd51599a189fe7f000015
 
 
 def solution(a, b):

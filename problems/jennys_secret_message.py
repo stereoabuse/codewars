@@ -1,6 +1,6 @@
 ##  Jenny's secret message
 ##  8 kyu
-##  https://www.codewars.com//kata/55225023e1be1ec8bc000390
+##  https://www.codewars.com/kata/55225023e1be1ec8bc000390
 
 
 def greet(name):

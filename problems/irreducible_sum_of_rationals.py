@@ -1,6 +1,6 @@
 ##  Irreducible Sum of Rationals
 ##  6 kyu
-##  https://www.codewars.com//kata/5517fcb0236c8826940003c9
+##  https://www.codewars.com/kata/5517fcb0236c8826940003c9
 
 
 from fractions import Fraction, gcd

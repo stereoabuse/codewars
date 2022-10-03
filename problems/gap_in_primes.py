@@ -1,6 +1,6 @@
 ##  Gap in Primes
 ##  5 kyu
-##  https://www.codewars.com//kata/561e9c843a2ef5a40c0000a4
+##  https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4
 
 
 def gap(g,m,n):

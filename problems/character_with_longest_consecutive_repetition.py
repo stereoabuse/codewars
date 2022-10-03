@@ -1,6 +1,6 @@
 ##  Character with longest consecutive repetition
 ##  6 kyu
-##  https://www.codewars.com//kata/586d6cefbcc21eed7a001155
+##  https://www.codewars.com/kata/586d6cefbcc21eed7a001155
 
 
 from itertools import groupby
